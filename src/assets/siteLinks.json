@@ -5,13 +5,18 @@
     "link": "https://blog.857996.xyz/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.857996.xyz/"
+  },
+  {
+    "icon": "play",
+    "name": "影视",
     "link": "https://blog.857996.xyz/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
+    "icon": "Cloud",
+    "name": "网盘",
     "link": "https://blog.857996.xyz/"
   },
   {
